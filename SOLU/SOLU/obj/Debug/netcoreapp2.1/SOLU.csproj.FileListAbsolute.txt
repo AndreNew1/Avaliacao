@@ -1,0 +1,11 @@
+C:\Users\Treinamento 2\source\repos\SOLU\SOLU\obj\Debug\netcoreapp2.1\SOLU.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 2\source\repos\SOLU\SOLU\obj\Debug\netcoreapp2.1\SOLU.AssemblyInfoInputs.cache
+C:\Users\Treinamento 2\source\repos\SOLU\SOLU\obj\Debug\netcoreapp2.1\SOLU.AssemblyInfo.cs
+C:\Users\Treinamento 2\source\repos\SOLU\SOLU\bin\Debug\netcoreapp2.1\SOLU.deps.json
+C:\Users\Treinamento 2\source\repos\SOLU\SOLU\bin\Debug\netcoreapp2.1\SOLU.runtimeconfig.json
+C:\Users\Treinamento 2\source\repos\SOLU\SOLU\bin\Debug\netcoreapp2.1\SOLU.runtimeconfig.dev.json
+C:\Users\Treinamento 2\source\repos\SOLU\SOLU\bin\Debug\netcoreapp2.1\SOLU.dll
+C:\Users\Treinamento 2\source\repos\SOLU\SOLU\bin\Debug\netcoreapp2.1\SOLU.pdb
+C:\Users\Treinamento 2\source\repos\SOLU\SOLU\obj\Debug\netcoreapp2.1\SOLU.csprojAssemblyReference.cache
+C:\Users\Treinamento 2\source\repos\SOLU\SOLU\obj\Debug\netcoreapp2.1\SOLU.dll
+C:\Users\Treinamento 2\source\repos\SOLU\SOLU\obj\Debug\netcoreapp2.1\SOLU.pdb

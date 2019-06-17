@@ -1,0 +1,11 @@
+C:\Users\Treinamento 2\source\repos\CARRO\CARRO\bin\Release\netcoreapp2.1\CARRO.deps.json
+C:\Users\Treinamento 2\source\repos\CARRO\CARRO\bin\Release\netcoreapp2.1\CARRO.runtimeconfig.json
+C:\Users\Treinamento 2\source\repos\CARRO\CARRO\bin\Release\netcoreapp2.1\CARRO.runtimeconfig.dev.json
+C:\Users\Treinamento 2\source\repos\CARRO\CARRO\bin\Release\netcoreapp2.1\CARRO.dll
+C:\Users\Treinamento 2\source\repos\CARRO\CARRO\bin\Release\netcoreapp2.1\CARRO.pdb
+C:\Users\Treinamento 2\source\repos\CARRO\CARRO\obj\Release\netcoreapp2.1\CARRO.csprojAssemblyReference.cache
+C:\Users\Treinamento 2\source\repos\CARRO\CARRO\obj\Release\netcoreapp2.1\CARRO.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 2\source\repos\CARRO\CARRO\obj\Release\netcoreapp2.1\CARRO.AssemblyInfoInputs.cache
+C:\Users\Treinamento 2\source\repos\CARRO\CARRO\obj\Release\netcoreapp2.1\CARRO.AssemblyInfo.cs
+C:\Users\Treinamento 2\source\repos\CARRO\CARRO\obj\Release\netcoreapp2.1\CARRO.dll
+C:\Users\Treinamento 2\source\repos\CARRO\CARRO\obj\Release\netcoreapp2.1\CARRO.pdb

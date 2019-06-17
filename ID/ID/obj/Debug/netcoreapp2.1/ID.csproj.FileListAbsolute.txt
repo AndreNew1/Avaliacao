@@ -1,0 +1,11 @@
+C:\Users\Treinamento 2\source\repos\ID\ID\obj\Debug\netcoreapp2.1\ID.csprojAssemblyReference.cache
+C:\Users\Treinamento 2\source\repos\ID\ID\obj\Debug\netcoreapp2.1\ID.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 2\source\repos\ID\ID\obj\Debug\netcoreapp2.1\ID.AssemblyInfoInputs.cache
+C:\Users\Treinamento 2\source\repos\ID\ID\obj\Debug\netcoreapp2.1\ID.AssemblyInfo.cs
+C:\Users\Treinamento 2\source\repos\ID\ID\bin\Debug\netcoreapp2.1\ID.deps.json
+C:\Users\Treinamento 2\source\repos\ID\ID\bin\Debug\netcoreapp2.1\ID.runtimeconfig.json
+C:\Users\Treinamento 2\source\repos\ID\ID\bin\Debug\netcoreapp2.1\ID.runtimeconfig.dev.json
+C:\Users\Treinamento 2\source\repos\ID\ID\bin\Debug\netcoreapp2.1\ID.dll
+C:\Users\Treinamento 2\source\repos\ID\ID\bin\Debug\netcoreapp2.1\ID.pdb
+C:\Users\Treinamento 2\source\repos\ID\ID\obj\Debug\netcoreapp2.1\ID.dll
+C:\Users\Treinamento 2\source\repos\ID\ID\obj\Debug\netcoreapp2.1\ID.pdb

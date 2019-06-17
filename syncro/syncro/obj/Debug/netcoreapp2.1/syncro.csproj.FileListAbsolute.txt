@@ -1,0 +1,11 @@
+C:\Users\Treinamento 2\source\repos\syncro\syncro\bin\Debug\netcoreapp2.1\syncro.deps.json
+C:\Users\Treinamento 2\source\repos\syncro\syncro\bin\Debug\netcoreapp2.1\syncro.runtimeconfig.json
+C:\Users\Treinamento 2\source\repos\syncro\syncro\bin\Debug\netcoreapp2.1\syncro.runtimeconfig.dev.json
+C:\Users\Treinamento 2\source\repos\syncro\syncro\bin\Debug\netcoreapp2.1\syncro.dll
+C:\Users\Treinamento 2\source\repos\syncro\syncro\bin\Debug\netcoreapp2.1\syncro.pdb
+C:\Users\Treinamento 2\source\repos\syncro\syncro\obj\Debug\netcoreapp2.1\syncro.csprojAssemblyReference.cache
+C:\Users\Treinamento 2\source\repos\syncro\syncro\obj\Debug\netcoreapp2.1\syncro.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 2\source\repos\syncro\syncro\obj\Debug\netcoreapp2.1\syncro.AssemblyInfoInputs.cache
+C:\Users\Treinamento 2\source\repos\syncro\syncro\obj\Debug\netcoreapp2.1\syncro.AssemblyInfo.cs
+C:\Users\Treinamento 2\source\repos\syncro\syncro\obj\Debug\netcoreapp2.1\syncro.dll
+C:\Users\Treinamento 2\source\repos\syncro\syncro\obj\Debug\netcoreapp2.1\syncro.pdb

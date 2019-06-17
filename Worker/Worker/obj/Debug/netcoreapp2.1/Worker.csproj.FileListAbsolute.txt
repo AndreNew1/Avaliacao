@@ -1,0 +1,11 @@
+C:\Users\Treinamento 2\source\repos\Worker\Worker\bin\Debug\netcoreapp2.1\Worker.deps.json
+C:\Users\Treinamento 2\source\repos\Worker\Worker\bin\Debug\netcoreapp2.1\Worker.runtimeconfig.json
+C:\Users\Treinamento 2\source\repos\Worker\Worker\bin\Debug\netcoreapp2.1\Worker.runtimeconfig.dev.json
+C:\Users\Treinamento 2\source\repos\Worker\Worker\bin\Debug\netcoreapp2.1\Worker.dll
+C:\Users\Treinamento 2\source\repos\Worker\Worker\bin\Debug\netcoreapp2.1\Worker.pdb
+C:\Users\Treinamento 2\source\repos\Worker\Worker\obj\Debug\netcoreapp2.1\Worker.csprojAssemblyReference.cache
+C:\Users\Treinamento 2\source\repos\Worker\Worker\obj\Debug\netcoreapp2.1\Worker.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 2\source\repos\Worker\Worker\obj\Debug\netcoreapp2.1\Worker.AssemblyInfoInputs.cache
+C:\Users\Treinamento 2\source\repos\Worker\Worker\obj\Debug\netcoreapp2.1\Worker.AssemblyInfo.cs
+C:\Users\Treinamento 2\source\repos\Worker\Worker\obj\Debug\netcoreapp2.1\Worker.dll
+C:\Users\Treinamento 2\source\repos\Worker\Worker\obj\Debug\netcoreapp2.1\Worker.pdb
