@@ -15,18 +15,26 @@ namespace Avaliacao
             {
                 Console.WriteLine("Digite o Nome do Aluno");
                 string Nome = Console.ReadLine();
-                Console.WriteLine("Digite a Nota do Aluno");
-                double Nota = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
-                //Tratamento de erro Notas
-                while (Nota > 10 || Nota < 0)
-                { 
+                try
+                {
+                    Console.WriteLine("Digite a Nota do Aluno");
+                    double Nota = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
+                    //Tratamento de erro Notas
+                    while (Nota > 10 || Nota < 0)
+                    {
                         Console.WriteLine("Nota Invalida");
                         Console.WriteLine("Digite a Nota do Aluno");
-                        Nota = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);  
+                        Nota = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
+                    }
+                    ANome[i] = Nome;
+                    Notas[i] = Nota;
+                    i++;
                 }
-                ANome[i] = Nome;
-                Notas[i] = Nota;
-                i++;
+                catch (Exception)
+                {
+                    Console.WriteLine("ERROR");
+                    Console.ReadLine();
+                }
                 Console.Clear();
             } while (i < 5);
 
